@@ -1,2 +1,3 @@
 # iot_startbook
-codes of book : IOT Startbook
+codes of book : IoT Startbook
+ESP32を使ったIoT入門用のリポジトリ
